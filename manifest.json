@@ -1,7 +1,76 @@
 {
-  "ascent-pool": [
+  "ignition": [
+    "01._Juni_Yogi_-_The_Mountain_(Original_Mix).enc",
+    "04._Ressonnimo_-_Sol_Naciente_(Yoga_&_Meditation_Version).enc",
+    "07._Gurulike_-_New_Planet_(Meditation_&_Inspiration).enc",
+    "10._Biocuo_-_Concentration_(Original_Mix).enc",
+    "13._Mind_Forest_-_Natural_Theme_(Original_Mix).enc",
+    "16._Mouni_Mantra_-_Stillness_(Original_Mix).enc",
+    "19._Those_Idols_-_In_My_Dream_(Original_Mix).enc",
+    "22._Yoga_&_Meditacion_-_Rising_Star_(Yoga_&_Zen_Meditation_Version).enc",
+    "25._Surbica_-_Condensacion_(Ambient_Relax_&_Meditation_Edit).enc",
+    "28._Music_Is_A_Film_-_Magnets_Of_The_Past_(Original_Mix).enc",
     "Drift_Over_Sandalwood.enc"
   ],
-  "peak-pool": [],
-  "beyond-pool": []
+  "velocity": [
+    "01._Juni_Yogi_-_The_Mountain_(Original_Mix).enc",
+    "04._Ressonnimo_-_Sol_Naciente_(Yoga_&_Meditation_Version).enc",
+    "07._Gurulike_-_New_Planet_(Meditation_&_Inspiration).enc",
+    "10._Biocuo_-_Concentration_(Original_Mix).enc",
+    "13._Mind_Forest_-_Natural_Theme_(Original_Mix).enc",
+    "16._Mouni_Mantra_-_Stillness_(Original_Mix).enc",
+    "19._Those_Idols_-_In_My_Dream_(Original_Mix).enc",
+    "22._Yoga_&_Meditacion_-_Rising_Star_(Yoga_&_Zen_Meditation_Version).enc",
+    "25._Surbica_-_Condensacion_(Ambient_Relax_&_Meditation_Edit).enc",
+    "28._Music_Is_A_Film_-_Magnets_Of_The_Past_(Original_Mix).enc",
+    "Drift_Over_Sandalwood.enc"
+  ],
+  "overdrive": [
+    "02._Cinematic_Meditation_-_Enough_For_Happiness_(Original_Mix).enc",
+    "05._Juni_Yogi_-_Internal_Method_(Original_Mix).enc",
+    "08._Cinematic_Meditation_-_Magic_Eyes_(Original_Mix).enc",
+    "11._Cinematic_Meditation_-_Both_Faces_(Original_Mix).enc",
+    "14._Planez_T_-_The_Second_Desert_(Original_Mix).enc",
+    "17._8s8_-_Cosmica_(Original_Mix).enc",
+    "20._Yoga_Goa_-_Inner_World_(Original_Mix).enc",
+    "23._Funkana_-_Softness_Red_(Zen_Ambient_Meditation).enc",
+    "26._Namaste_Mudra_-_Open_Senses_(Original_Mix).enc",
+    "29._Babelong_-_Emgf_(Original_Mix).enc"
+  ],
+  "limitless": [
+    "02._Cinematic_Meditation_-_Enough_For_Happiness_(Original_Mix).enc",
+    "05._Juni_Yogi_-_Internal_Method_(Original_Mix).enc",
+    "08._Cinematic_Meditation_-_Magic_Eyes_(Original_Mix).enc",
+    "11._Cinematic_Meditation_-_Both_Faces_(Original_Mix).enc",
+    "14._Planez_T_-_The_Second_Desert_(Original_Mix).enc",
+    "17._8s8_-_Cosmica_(Original_Mix).enc",
+    "20._Yoga_Goa_-_Inner_World_(Original_Mix).enc",
+    "23._Funkana_-_Softness_Red_(Zen_Ambient_Meditation).enc",
+    "26._Namaste_Mudra_-_Open_Senses_(Original_Mix).enc",
+    "29._Babelong_-_Emgf_(Original_Mix).enc"
+  ],
+  "zenith": [
+    "03._Cinematic_Meditation_-_El_Bosque_(Original_Mix).enc",
+    "06._Music_Is_A_Film_-_Back_To_The_Start_(Original_Mix).enc",
+    "09._Lunamica_-_Rising_Mountains_(Original_Mix).enc",
+    "12._Fucca_Music_Sense_-_Deep_Devotion_(Original_Mix).enc",
+    "15._Material_Nature_-_Out_Side_(Original_Mix).enc",
+    "18._Foihnk_-_My_Place_(Original_Mix).enc",
+    "21._Mental_Geims_-_Looking_For_(Original_Mix).enc",
+    "24._Biocuo_-_Rain_In_The_City_(Original_Mix).enc",
+    "27._Nubble_Mind_-_Small_Pieces_(Yoga_&_Meditation_Version).enc",
+    "30._Rare_Dimension_-_Dormido_(Original_Mix).enc"
+  ],
+  "singularity": [
+    "03._Cinematic_Meditation_-_El_Bosque_(Original_Mix).enc",
+    "06._Music_Is_A_Film_-_Back_To_The_Start_(Original_Mix).enc",
+    "09._Lunamica_-_Rising_Mountains_(Original_Mix).enc",
+    "12._Fucca_Music_Sense_-_Deep_Devotion_(Original_Mix).enc",
+    "15._Material_Nature_-_Out_Side_(Original_Mix).enc",
+    "18._Foihnk_-_My_Place_(Original_Mix).enc",
+    "21._Mental_Geims_-_Looking_For_(Original_Mix).enc",
+    "24._Biocuo_-_Rain_In_The_City_(Original_Mix).enc",
+    "27._Nubble_Mind_-_Small_Pieces_(Yoga_&_Meditation_Version).enc",
+    "30._Rare_Dimension_-_Dormido_(Original_Mix).enc"
+  ]
 }
